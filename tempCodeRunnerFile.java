@@ -14,7 +14,7 @@ class Programmer extends Employee  // Sub class
     }
 }
 
-public class weekfour1 {
+class weekfour1 {
     public static void main(String args[]) {
         Programmer p = new Programmer();
         p.salary(); // calls method of super class
